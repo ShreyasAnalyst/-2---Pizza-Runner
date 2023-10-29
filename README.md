@@ -217,19 +217,6 @@ ORDER BY 1;
 <h6>Output</h6>
 <img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/10.png">
 
-## Who Ordered the most amount of pizzas?
-
-**SQL Code:**
-```sql
-SELECT 
-	runner_id,
-	COUNT(order_id)
-FROM 
-	runner_orders
-GROUP BY 1;
-```
-<h6>Output</h6>
-<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/Screenshot%202023-10-29%20144039.png">
 
 <h1><a id="Notes">Notes</a></h1>
 
