@@ -1,5 +1,5 @@
 <h1>#2.A - Pizza Runner🍕🚴</h1>
-<img width="500" alt="image">
+<img width="500" alt="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/entity%20diagram.png">
 <h1>Contents</h1>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -23,7 +23,7 @@
 <p>All datasets exist within the pizza_runner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.</p>
 
 <h1><a id="entity-relationship">Entity Relationship Diagram</a></h1>
-<img width="500" alt="image">
+<img width="400" alt="image">
 
 <h1><a id="case-study">Case Study Questions & Solutions</a></h1>
 
@@ -40,7 +40,7 @@ FROM
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/1.png">
 
 ## 2. How many unique customer orders were made?
 
@@ -53,7 +53,7 @@ FROM
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/2.png">
 
 ## 3. How many successful orders were delivered by each runner?
 
@@ -71,7 +71,7 @@ ORDER BY 2 DESC;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/3.png">
 
 ## 4. How many of each type of pizza was delivered?
 
@@ -90,7 +90,7 @@ GROUP BY 1;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/4.png">
 
 ## 5. How many Vegetarian and Meatlovers were ordered by each customer?
 
@@ -108,7 +108,7 @@ ORDER BY 1;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/5.png">
 
 ## 6. What was the maximum number of pizzas delivered in a single order?
 
@@ -128,7 +128,7 @@ LIMIT 1;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/6.png">
 
 ## 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 
@@ -161,7 +161,7 @@ GROUP BY 1;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/7.png">
 
 ## 8. How many pizzas were delivered that had both exclusions and extras?
 
@@ -184,7 +184,7 @@ WHERE
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/8.png">
 
 ## 9. What was the total volume of pizzas ordered for each hour of the day?
 
@@ -200,7 +200,7 @@ ORDER BY 1;
 ```
 <h6>Output</h6>
 
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/9.png">
 
 ## 10. What was the volume of orders for each day of the week?
 
@@ -215,7 +215,7 @@ GROUP BY 1
 ORDER BY 1;
 ```
 <h6>Output</h6>
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/10.png">
 
 ## Who Ordered the most amount of pizzas?
 
@@ -229,7 +229,7 @@ FROM
 GROUP BY 1;
 ```
 <h6>Output</h6>
-<img width="500" alt="Coding" src="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/Screenshot%202023-10-29%20144039.png">
 
 <h1><a id="Notes">Notes</a></h1>
 
