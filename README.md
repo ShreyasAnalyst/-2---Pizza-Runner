@@ -1,5 +1,5 @@
 <h1>#2.A - Pizza Runner🍕🚴</h1>
-<img width="500" alt="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/entity%20diagram.png">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/pizza%20runner%20a.png">
 <h1>Contents</h1>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -23,7 +23,7 @@
 <p>All datasets exist within the pizza_runner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.</p>
 
 <h1><a id="entity-relationship">Entity Relationship Diagram</a></h1>
-<img width="400" alt="image">
+<img width="400" alt="Coding" src="https://github.com/ShreyasAnalyst/-2---Pizza-Runner/blob/main/images/entity%20diagram.png">
 
 <h1><a id="case-study">Case Study Questions & Solutions</a></h1>
 
