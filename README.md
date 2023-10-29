@@ -3,7 +3,7 @@
 <h1>Contents</h1>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
-  <li><a href="#available-data">Problem Statement</a></li>
+  <li><a href="#available-data">Available Data</a></li>
   <li><a href="#entity-relationship">Entity Relationship Diagram</a></li>
   <li><a href="#case-study">Case Study Questions & Solutions</a></li>
   <li><a href="#Notes">Notes</a></li>
